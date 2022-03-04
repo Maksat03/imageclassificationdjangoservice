@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'Final',             
         'USER': 'postgres',
         'PASSWORD': 'Maksat2003',
-        'HOST': 'localhost',
+        'HOST': '192.168.1.72',
         'PORT': '5432',
     }
 }
